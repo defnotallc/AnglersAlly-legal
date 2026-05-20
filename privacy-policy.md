@@ -140,7 +140,7 @@ laws. These rights may include:
   advertising consent at any time via the App's Settings tab →
   "Manage Ad Consent" option.
 
-To exercise any of these rights, email **support@defnotallc.com**. We
+To exercise any of these rights, email **defnota.official@gmail.com**. We
 may need to verify your request. We will respond within the time period
 required by applicable law.
 
@@ -196,7 +196,7 @@ If you have questions or requests regarding this Privacy Policy, please
 contact:
 
 **DefNotA LLC**
-Email: **support@defnotallc.com**
+Email: **defnota.official@gmail.com**
 
 ---
 

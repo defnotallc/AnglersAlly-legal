@@ -202,7 +202,7 @@ acceptance of the revised Terms.
 ## 16. Contact
 
 **DefNotA LLC**
-Email: **support@defnotallc.com**
+Email: **defnota.official@gmail.com**
 
 ---
 

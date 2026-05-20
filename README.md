@@ -27,6 +27,6 @@ documents are reachable at:
 ## Contact
 
 DefNotA LLC
-Email: support@defnotallc.com
+Email: defnota.official@gmail.com
 
 © 2026 DefNotA LLC. All rights reserved.

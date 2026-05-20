@@ -38,7 +38,7 @@ following third-party SDKs distributed under their respective licenses:
 ## Reporting an attribution issue
 
 If you believe content in Angler's Ally is incorrectly attributed or
-should not appear in the App, please email **support@defnotallc.com**
+should not appear in the App, please email **defnota.official@gmail.com**
 with the species or item name and a description of the issue. We will
 investigate promptly.
 
